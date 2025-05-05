@@ -10,6 +10,15 @@ Este projeto é uma aplicação web que combina Laravel no backend e React no fr
 
 ---
 
+## Páginas 
+
+- / : Redirecionado para clientes
+- /clientes : Gerencie os clientes
+- /cidades : Gerencie as cidades
+- /responsaveis : Gerencie os responsáveis 
+
+---
+
 ## Endpoints API
 
 ### 1. **Clientes (Clients)**
