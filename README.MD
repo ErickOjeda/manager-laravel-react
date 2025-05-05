@@ -1,4 +1,4 @@
-# Projeto Laravel + React
+# Projeto Laravel com React
 
 Este projeto é uma aplicação web que combina Laravel no backend e React no frontend. Ele gerencia informações sobre clientes, cidades e responsáveis.
 
@@ -7,6 +7,15 @@ Este projeto é uma aplicação web que combina Laravel no backend e React no fr
 - **Gerenciamento de Clientes**: Adicionar, editar, excluir e visualizar clientes.
 - **Gerenciamento de Cidades**: Listar e gerenciar cidades.
 - **Gerenciamento de Responsáveis**: Associar responsáveis às cidades e visualizá-los.
+
+---
+
+## Páginas 
+
+- / : Redirecionado para clientes
+- /clientes : Gerencie os clientes
+- /cidades : Gerencie as cidades
+- /responsaveis : Gerencie os responsáveis 
 
 ---
 
