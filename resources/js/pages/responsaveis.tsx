@@ -42,7 +42,7 @@ export default function Responsible() {
 
   return (
     <>
-      <Head title="Responsible" />
+      <Head title="Responsáveis" />
       <AppBar />
       <Container maxWidth="md" sx={{ mt: 5 }}>
         <Table
