@@ -77,6 +77,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 3. **Rode o projeto**
      `composer run dev`
-
+   - Acesse `http://127.0.0.1:8000`
+    
 ---
 
