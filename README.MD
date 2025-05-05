@@ -1,4 +1,4 @@
-# Projeto Laravel + React
+# Projeto Laravel com React
 
 Este projeto é uma aplicação web que combina Laravel no backend e React no frontend. Ele gerencia informações sobre clientes, cidades e responsáveis.
 
